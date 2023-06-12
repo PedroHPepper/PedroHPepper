@@ -6,9 +6,9 @@
   <i>
         Sou Pedro Pimenta<br>
         Atualmente atuando como Analista Desenvolvedor Pleno,<br>
-        focando em tecnologias Microsoft, como .NET e Dynamics 365, porém sempre aberto a novos conhecimentos<br>
+        focando em tecnologias Microsoft, como .NET e Dynamics 365,<br>
+        porém sempre aberto a novos conhecimentos<br>
     </i><br>
-  
     <a href="https://www.linkedin.com/in/pedro-henrique-nunes-pimenta-295127b7">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
