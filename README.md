@@ -18,7 +18,7 @@
 [![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)](https://github.com/PedroHPepper)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/PedroHPepper)
 [![SQL](https://img.shields.io/badge/sqlserver-black?style=for-the-badge&logo=microsoft-sql-server)](https://github.com/PedroHPepper)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/PedroHPepper)
+[![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/PedroHPepper)
 
 ### Frameworks e outras tecnologias
 [![.NET](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=dotnet)](https://github.com/PedroHPepper)
