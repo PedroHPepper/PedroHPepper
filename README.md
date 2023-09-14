@@ -5,7 +5,7 @@
 <p align="center">
   <i>
         Sou Pedro Pimenta<br>
-        Atualmente atuando como Analista Desenvolvedor Pleno,<br>
+        Atualmente atuando como Analista Desenvolvedor,<br>
         focando em tecnologias Microsoft, como .NET e Dynamics 365,<br>
         porém sempre aberto a novos conhecimentos.<br>
     </i><br>
